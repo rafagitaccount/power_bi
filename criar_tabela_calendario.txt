@@ -42,6 +42,9 @@ Repetir para os tipos:
 -> Semana -> Semana do Ano
 
 Função Pronta:
+-> ATENÇÃO: Ao copiar/colar a função abaixo, atente-se as Tabelas utilizadas as quais provavelmente
+possuirão os nomes diferentes das tulizadas por você para análise por datas. Estas tabelas são referidas
+na criação das variáveis: DataMin e DataMx.
 
 let
     DataMin = List.Min(BaseVendas[Data da Venda]),
